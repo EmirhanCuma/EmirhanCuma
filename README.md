@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @EmirhanCuma
-- 👀 I’m interested in c# language
-- 🌱 I’m currently learning c# language 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-EmirhanCuma/EmirhanCuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+String name,surname,whoIam;
+name = "Emirhan Cuma"
+surname = "Arslan"
+whoIam = "I am a young software developer student"
+Console.WriteLine(" Question one: what am i doing here ?");
+Console.WriteLine("Answer: Here I am sharing my projects with you.")
+Console.WriteLine("***************************************")
+Console.WriteLine("Question two: what do you like to do in your spare time ?")
+Console.WriteLine("Response: I like swimming and long hours coding and learning code")
+Console.WriteLine("***************************************")
+Console.WriteLine("If you want to get to know me better, you can look at my projects :)")
